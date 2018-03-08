@@ -1,0 +1,23 @@
+{
+  "name": "slothbear-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharding2/slothbear-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharding2/slothbear-chat/issues"
+  },
+  "homepage": "https://github.com/bharding2/slothbear-chat#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
